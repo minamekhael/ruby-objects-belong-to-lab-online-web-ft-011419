@@ -6,4 +6,4 @@ class Post
   end
 end
 
-Post
+Post = Author.new
