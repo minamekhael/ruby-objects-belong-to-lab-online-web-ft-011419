@@ -5,3 +5,5 @@ class Post
     @title = title
   end
 end
+
+Post.Author = Author
