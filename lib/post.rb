@@ -6,4 +6,4 @@ class Post
   end
 end
 
-
+hillary = Author.new
