@@ -6,3 +6,4 @@ class Post
   end
 end
 
+Post
